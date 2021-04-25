@@ -1,0 +1,1 @@
+mongo "mongodb+srv://clusterone.plhk1.mongodb.net/myFirstDatabase" --username <username>
