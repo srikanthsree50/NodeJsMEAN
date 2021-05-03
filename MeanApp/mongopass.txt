@@ -1,1 +1,2 @@
 mongo "mongodb+srv://clusterone.plhk1.mongodb.net/myFirstDatabase" --username <username>
+"mongodb+srv://UserDb:96033_Sree@clusterone.plhk1.mongodb.net/UserDb?retryWrites=true&w=majority",{useNewUrlParser:true,useUnifiedTopology:true}
